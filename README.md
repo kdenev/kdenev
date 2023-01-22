@@ -1,15 +1,29 @@
-<img src="https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960" height = 400 width = 800></img>
-<h1 align="center">Hi 👋, I'm Kristiyan</h1>
-<h3 align="center">Data scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kdenev&label=Profile%20views&color=0e75b6&style=flat" alt="kdenev" /> </p>
+
+<div style="width: 100%;">
+    <img src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" ></img>
+</div>
+
+<div style="font-family: 'Times New Roman', Times, serif; align-items: center;">
+    <h1>Hi 👋, I'm Kristiyan</h1>
+    <h3>Data scientist</h3>
+</div>
 
 <div>
-    <div style="width: 50%; float: left; ">
-        <h3 align="left">Education:</h3>
+
+
+
+    <div style="width: 10%; float: left; margin-top: 4%;">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Stockholm_School_Of_Economics_Logo.svg/1200px-Stockholm_School_Of_Economics_Logo.svg.png" 
+        alt="education" width="100" height="100">
+    </div>
+
+
+    <div style="width: 40%; float: left; ">
+        <h3 >Education:</h3>
             <a href="https://www.hhs.se/">Stockholm School of Economics</a>
         <img src="" alt="">
-            <div>
+            <div style="font-family: Georgia, 'Times New Roman', Times, serif;">
                 <p>MSc</p>
                 <p>Specialization in:</p>
                 <p>Data Analytics & Investment Management</p>
@@ -17,21 +31,35 @@
         
     </div>
 
-    <div style="width: 50%; float: left;">
-        <h3 align="left">Education:</h3>
-            <a href="https://www.hhs.se/">Stockholm School of Economics</a>
-        <img src="" alt="">
-            <div>
-                <p>MSc</p>
-                <p>Specialization in:</p>
-                <p>Data Analytics & Investment Management</p>
+    <div style="width: 40%; float: left; ">
+        <h3 >Work:</h3>
+            <a href="https://www.hhs.se/">Swedbank</a>
+            <div style="font-family: Georgia, 'Times New Roman', Times, serif;">
+                <p>9/21 Jr Data Scienetist</p>
+                <p>7/22 Data Scienetist</p>
             </div>
         
     </div>
+
+    <div style="width: 10%; float: left; margin-top: 4%;">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/F%C3%B6reningsSparbanken_%28logo%29.jpg/238px-F%C3%B6reningsSparbanken_%28logo%29.jpg" 
+        alt="education" width="100" height="100">
+    </div>
+
 </div>
-<p align="left">
-<a href="https://kaggle.com/kdenev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kdenev" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div style="width: 50;">
+    <h3>Programming</h3>
+        <h4>Python</h4>
+            <p>Data manipulation: Pandas, Polars</p>
+            <p>Visualization: Bokeh, Plotnine</p>
+            <p>Machine Learning: SKLearn, Tensorflow</p>
+            <p>Web Development: Flask</p>
+        <h4>Front-end</h4>
+            <p>HTML, CSS,</p>
+
+</div>
+
+<div>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdenev&label=Profile%20views&color=0e75b6&style=flat" alt="kdenev" /> </p>
+</div>
