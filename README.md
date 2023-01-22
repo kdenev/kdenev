@@ -1,4 +1,4 @@
-<img source="https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960" height = 400 width = 800></img>
+<img src="https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960" height = 400 width = 800></img>
 <h1 align="center">Hi 👋, I'm Kristiyan</h1>
 <h3 align="center">Data scientist</h3>
 
