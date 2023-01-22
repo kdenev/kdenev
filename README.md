@@ -1,9 +1,10 @@
+<img source="https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960" height = 400 width = 800></img>
 <h1 align="center">Hi 👋, I'm Kristiyan</h1>
-<h3 align="center">Data scientiest</h3>
+<h3 align="center">Data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdenev&label=Profile%20views&color=0e75b6&style=flat" alt="kdenev" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Kaggle:</h3>
 <p align="left">
 <a href="https://kaggle.com/kdenev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kdenev" height="30" width="40" /></a>
 </p>
