@@ -4,7 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdenev&label=Profile%20views&color=0e75b6&style=flat" alt="kdenev" /> </p>
 
-<h3 align="left">Kaggle:</h3>
+<div>
+    <h3 align="left">Kaggle:</h3>
+    <h3 align="right">Kaggle:</h3>
+</div>
 <p align="left">
 <a href="https://kaggle.com/kdenev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kdenev" height="30" width="40" /></a>
 </p>
