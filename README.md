@@ -6,7 +6,7 @@
 
 <div>
     <h3 align="left">Education:</h3>
-    <svg><use>xlink:href="#hhs-logo"</use></svg>
+    <svg><use xlink:href="#hhs-logo"></use></svg>
         <a href="https://www.hhs.se/">Stockholm School of Economics</a>
     <img src="" alt="">
         <div>
