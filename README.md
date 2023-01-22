@@ -5,8 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdenev&label=Profile%20views&color=0e75b6&style=flat" alt="kdenev" /> </p>
 
 <div>
-    <h3 align="left">Kaggle:</h3>
-    <h3 align="right">Kaggle:</h3>
+    <h3 align="left">Education:</h3>
+    <svg><use>xlink:href="#hhs-logo"</use></svg>
+        <a href="https://www.hhs.se/">Stockholm School of Economics</a>
+    <img src="" alt="">
+        <div>
+            <p>MSc</p>
+            <p>Specialization in:</p>
+            <p>Data Analytics & Investment Management</p>
+        </div>
+    
 </div>
 <p align="left">
 <a href="https://kaggle.com/kdenev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kdenev" height="30" width="40" /></a>
