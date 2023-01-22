@@ -4,9 +4,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdenev&label=Profile%20views&color=0e75b6&style=flat" alt="kdenev" /> </p>
 
-<div>
+<div style="align-self: left; width: 50%;">
     <h3 align="left">Education:</h3>
-    <svg><use xlink:href="#hhs-logo"></use></svg>
+    <svg><use>xlink:href="#hhs-logo"</use></svg>
+        <a href="https://www.hhs.se/">Stockholm School of Economics</a>
+    <img src="" alt="">
+        <div>
+            <p>MSc</p>
+            <p>Specialization in:</p>
+            <p>Data Analytics & Investment Management</p>
+        </div>
+    
+</div>
+
+<div style="align-self: right; width: 50%;">
+    <h3 align="left">Education:</h3>
+    <svg><use>xlink:href="#hhs-logo"</use></svg>
         <a href="https://www.hhs.se/">Stockholm School of Economics</a>
     <img src="" alt="">
         <div>
