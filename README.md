@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdenev&label=Profile%20views&color=0e75b6&style=flat" alt="kdenev" /> </p>
 
-<div style="align-content: left; width: 50%;">
+<div style="float: left; width: 50%;">
     <h3 align="left">Education:</h3>
         <a href="https://www.hhs.se/">Stockholm School of Economics</a>
     <img src="" alt="">
@@ -16,7 +16,7 @@
     
 </div>
 
-<div style="align-content: right; width: 50%;">
+<div style="float: right; width: 50%;">
     <h3 align="left">Education:</h3>
         <a href="https://www.hhs.se/">Stockholm School of Economics</a>
     <img src="" alt="">
