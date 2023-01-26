@@ -38,6 +38,8 @@
     height="50" />
 <img align="right" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50"
     height="50" />
+<img align="right" src="https://numfocus.org/wp-content/uploads/2017/11/bokeh-logo-300.png" alt="bokeh" width="50"
+    height="50" />
 <p>Visualization: Bokeh, Plotnine</p>
 <p>Machine Learning: SKLearn, Tensorflow</p>
 <p>Web Development: Flask</p>
@@ -48,6 +50,14 @@
     alt="css3" width="50" height="50" />
 <h4>Front-end</h4>
 <p>HTML, CSS</p>
+<img align="right" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
+<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+<img align="right" src="https://avatars.githubusercontent.com/u/1615979?s=280&v=4" alt="tera" width="50" height="50"/>
+<h4>Databases</h4>
+<p>SQL</p>
+<img align="right" src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png" alt="databricks" width="50" height="50"/>
+<h4>Cloud</h4>
+<p>Databricks</p>
 
 <h3 align="right">Learning</h3>
 <img align="right"
