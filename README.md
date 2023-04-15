@@ -61,13 +61,13 @@
 
 <h3 align="right">Learning</h3>
 <img align="right"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"
-    width="50" height="50" />
-<img align="right"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript" width="40" height="40" />
+<img align="right"
+    src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++"
+    width="50" height="50" />
 <p>Natural Language Processing</p>
-<p>React, JavaScript</p>
+<p>C++, JavaScript</p>
 
 <h3 align="right">Current Project</h3>
 <p>Yahoo Finance Scraper</p>
