@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kristiyan</h1>
-<p align="center">Data scientist interested in Finance and Natural Language Processing</h3>
+<p align="center">Data scientist in Finance</h3>
 
 
 <h3 align="right">Career</h3>
