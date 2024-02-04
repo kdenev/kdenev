@@ -62,16 +62,12 @@
 
 <h3 align="right">Learning</h3>
 <img align="right"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="40" height="40" />
-<img align="right"
-    src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++"
-    width="50" height="50" />
-<p>Natural Language Processing</p>
-<p>C++, JavaScript</p>
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png"
+    alt="rust programming language logo" width="40" height="40" />
+<p>The Rust Programming Language Book</p>
 
 <h3 align="right">Current Project</h3>
-<p>Yahoo Finance Scraper</p>
+<a href="">100 Days of Code Python</a>
 
 <h3 align="right">Contact</h3>
 <a align="right" href="https://kaggle.com/kdenev" target="blank"><img align="right"
