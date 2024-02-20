@@ -67,7 +67,7 @@
 <p>The Rust Programming Language Book</p>
 
 <h3 align="right">Current Project</h3>
-<a href="">100 Days of Code Python</a>
+<a href="https://github.com/kdenev/100dayscode/tree/main">100 Days of Code Python</a>
 
 <h3 align="right">Contact</h3>
 <a align="right" href="https://kaggle.com/kdenev" target="blank"><img align="right"
