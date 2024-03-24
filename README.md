@@ -62,9 +62,9 @@
 
 <h3 align="right">Learning</h3>
 <img align="right"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png"
-    alt="rust programming language logo" width="40" height="40" />
-<p>The Rust Programming Language Book</p>
+    src="https://i.pinimg.com/originals/bd/fb/bd/bdfbbd94c739a2aeeff8aba8832fdaab.png"
+    alt="algorithms logo" width="40" height="40" />
+<a href="https://www.udemy.com/course/data-structures-algorithms-python">Algorithms</a>
 
 <h3 align="right">Current Project</h3>
 <a href="https://github.com/kdenev/100dayscode/tree/main">100 Days of Code Python</a>
