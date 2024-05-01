@@ -12,7 +12,7 @@
 <a align="left" href="https://www.swedbank.se/">Swedbank</a>
 <p>Data scientist</p>
 <p align="left">7/22 Data Scientist</p>
-<p align="left">9/21 Junior Data Scienetist</p>
+<p align="left">9/21 Junior Data Scientist</p>
 
 
 
