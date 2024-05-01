@@ -11,7 +11,7 @@
     src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/F%C3%B6reningsSparbanken_%28logo%29.jpg/238px-F%C3%B6reningsSparbanken_%28logo%29.jpg">
 <a align="left" href="https://www.swedbank.se/">Swedbank</a>
 <p>Data scientist</p>
-<p align="left">7/22 Data Scienetist(Big Data Mining)</p>
+<p align="left">7/22 Data Scientist</p>
 <p align="left">9/21 Junior Data Scienetist</p>
 
 
